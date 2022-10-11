@@ -1,5 +1,5 @@
 # 2022cce
-#2層迴圈
+# 2層迴圈
 
 #include<stdio.h>
 int main()
@@ -28,7 +28,7 @@ int main()
 }
 
 
-#最大公因數
+# 最大公因數
 
 #include<stdio.h>
 int main()
@@ -47,7 +47,7 @@ int main()
     printf("ans: %d 可約分",ans);
 }
 
-#輾轉相除法
+# 輾轉相除法
 
 #include<stdio.h>
 int main()
